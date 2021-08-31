@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to Geospatial API Page](https://dpark374.github.io/Geospatial/).
 
 There should be whitespace between paragraphs.
 
